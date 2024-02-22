@@ -2,7 +2,7 @@ import threading
 import numpy
 import opennsfw2
 from PIL import Image
-from keras import Model
+from tensorflow import keras
 
 from roop.typing import Frame
 
